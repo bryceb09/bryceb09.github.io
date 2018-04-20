@@ -4,6 +4,7 @@ The maps contained in this assets folder consist of 2 geojson and a topojson of 
 
 
 
+
 Name                                Size(kb)
 World Map.geojson                   10,200
 World Map Simplified.geojson        338
