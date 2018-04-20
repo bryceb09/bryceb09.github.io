@@ -10,4 +10,6 @@ World Map Simplified.topojson       108
 
 | Name | Size(kb) |
 |------|----------|
-|World Map.geojson|
+|World Map 1.geojson|10,200|
+|World Map 2 Simplified.geojson|338|
+|World Map 3 Simplified.topojson|108| 
