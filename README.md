@@ -1,4 +1,3 @@
-# bryceb09.github.to
 
 The maps contained in this assets folder consist of 2 geojson and a topojson of the world. One of the geojson and topojson are simplified versions of the world map.
 
