@@ -6,7 +6,7 @@ Corvallis, Oregon
 
 > The application of GIS is limited only by the imagination of those who use it. 
 >
-> ~Jack Dangermond, ESRI
+> ~Jack Dangermond, ESRI :earth_americas:
 
 ## Summary
 
@@ -21,6 +21,12 @@ Certified Geospatial Scientist with mastery of ArcGIS and 20+ hours of ESRI trai
 * Flexible
 
 ## Work Experience
+
+**Student Information Technician**, 10/2018 to Current
+
+**Oregon State University Outdoor School**, - Corvallis, OR
+
+Create maps, clean data, manage data, create visualizations
 
 **Helper**, 07/2018 to 09/2018
 
@@ -61,8 +67,14 @@ Yearly Inventory
 | Oregon State University | Corvallis, OR | In-progress, 2019 :mortar_board: |
 
 ## Recent Work
-Github [https://github.com/bryceb09]
 
+Github [https://github.com/bryceb09]
+Outdoor School [https://extension.oregonstate.edu/outdoor-school]
+
+## Degree Information/ Certification
+
+[http://ceoas.oregonstate.edu/geography/]
+[http://ceoas.oregonstate.edu/giscience/undergraduate/]
 
 
 
