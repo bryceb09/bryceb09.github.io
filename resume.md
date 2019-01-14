@@ -58,7 +58,7 @@ Yearly Inventory
 | ----------------------- | ------------- | ----------------- |
 | Buchanan High School    | Clovis, CA    | 2013              |
 | Willow International    | Fresno, CA    | 2016              |
-| Oregon State University | Corvallis, OR | In-progress, 2019 :mortat_board: |
+| Oregon State University | Corvallis, OR | In-progress, 2019 :mortar_board: |
 
 ## Recent Work
 Github [https://github.com/bryceb09]
