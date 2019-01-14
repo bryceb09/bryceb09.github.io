@@ -68,9 +68,9 @@ Yearly Inventory
 
 ## Recent Work
 
-**Github** [https://github.com/bryceb09]
+**Github** :computer: [https://github.com/bryceb09]
 
-Outdoor School [https://extension.oregonstate.edu/outdoor-school]
+**Outdoor School** :evergreen_tree: [https://extension.oregonstate.edu/outdoor-school]
 
 ## Degree Information/ Certification
 
