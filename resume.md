@@ -14,14 +14,11 @@ Certified Geospatial Scientist with mastery of ArcGIS and 20+ hours of ESRI trai
 
 ### Skills
 
-* Positive outlook
-* Energetic and driven
-* Strong work ethic
-* Friendly demeanor
-* People-oriented
-* Motivated team player
+* Detail Oriented
+* Organzied
+* Strong Work Ethic
 * Reliable
-* Flexible 
+* Flexible
 
 ## Work Experience
 
