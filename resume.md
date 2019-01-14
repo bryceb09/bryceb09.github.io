@@ -25,6 +25,12 @@ Certified Geospatial Scientist with mastery of ArcGIS and 20+ hours of ESRI trai
 
 ## Work Experience
 
+**Helper**, 07/2018 to 09/2018
+
+**Avila Dairy Equipment** - Hanford, CA
+
+Efficently managed stock, preformed yearly inventory, picked up parts from suppliers, and delivered parts to desired destinations
+
 **Outside Services**, 6/24/2015 to 02/16/2016
 
 **Copper River Country Club** - Fresno, CA
@@ -56,6 +62,9 @@ Yearly Inventory
 | Buchanan High School    | Clovis, CA    | 2013              |
 | Willow International    | Fresno, CA    | 2016              |
 | Oregon State University | Corvallis, OR | In-progress, 2019 |
+
+## Recent Work
+Github [https://github.com/bryceb09]
 
 
 
